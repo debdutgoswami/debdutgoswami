@@ -1,13 +1,3 @@
-<style>
-    .center {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 50%;
-    }
-    .small { font: italic 3rem courier; }
-</style>
-
 <!-- <img src="assets/name.gif" class="center" /> -->
 
 # Hey,  I'm Debdut
