@@ -1,21 +1,25 @@
 <!-- <img src="assets/name.gif" class="center" /> -->
 
-# Hey,  I'm Debdut
+# Hey,  I'm Debdut <img src="assets/gifs/Hi.gif" width="30px">
+
+<img align="right" height="250" width="375" alt="GIF" src="assets/gifs/coder.gif" />
 
 - 🔭 I’m currently working on **Web Development**
 - 🌱 I’m currently learning **about life**
 - 👯 I’m looking to collaborate on **anything that excites me**
 - 🤔 I’m looking for help in **keeping my s\*\*\* together**
 - 💬 Ask me **something interesting**
-- 📫 How to reach me: **Anywhere you find me**
+- 📫 How to reach me: **Anywhere you find me** 😉
 - 😄 Pronouns: **he**/**him**
 - ⚡ Fun fact: I live on **caffine** and **memes**
 
 <!-- ![Debdut's github stats](https://github-readme-stats.vercel.app/api?username=debdutgoswami) -->
 
+<br>
+
 ---
 
-<p class="center">
+<p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
   <p align="center">
