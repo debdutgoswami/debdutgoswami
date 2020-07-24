@@ -11,7 +11,7 @@
 - 💬 Ask me **something interesting**
 - 📫 How to reach me: **Anywhere you find me** 😉
 - 😄 Pronouns: **he**/**him**
-- ⚡ Fun fact: I live on **caffine** and **memes**
+- ⚡ Fun fact: I live on **caffeine** and **memes**
 
 <!-- ![Debdut's github stats](https://github-readme-stats.vercel.app/api?username=debdutgoswami) -->
 
