@@ -1,8 +1,8 @@
 <!-- <img src="assets/name.gif" class="center" /> -->
 
-# Hey,  I'm Debdut <img src="assets/gifs/Hi.gif" width="30px">
+# Hey,  I'm Debdut <img src="/assets/gifs/Hi.gif" width="30px">
 
-<img align="right" height="250" width="375" alt="GIF" src="assets/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="GIF" src="/assets/gifs/coder.gif" />
 
 - 🔭 I’m currently working on **Web Development**
 - 🌱 I’m currently learning **about life**
@@ -23,8 +23,8 @@
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
   <p align="center">
-    <a href="https://twitter.com/debdutgoswami" alt="Twitter"><img src="assets/svg/twitter.svg"></a>
-    <a href="https://www.linkedin.com/in/debdutgoswami/" alt="Linkedin"><img src="assets/svg/linkedin.svg"></a>
+    <a href="https://twitter.com/debdutgoswami" alt="Twitter"><img src="/assets/svg/twitter.svg"></a>
+    <a href="https://www.linkedin.com/in/debdutgoswami/" alt="Linkedin"><img src="/assets/svg/linkedin.svg"></a>
     <a href="mailto:debdutgoswami@gmail.com" alt="Email me"><img src="assets/svg/mail.svg"></a>
     <!-- <a href="#" alt="My Portfolio"><img src="assets/svg/external.svg"></a> -->
   </p>
