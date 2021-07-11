@@ -2,7 +2,7 @@
 
 <img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/coder.gif" />
 
-- 🔭 I’m currently working on **Backend & Integrations**
+- 🔭 I’m currently working on **backend & integrations**
 - 🌱 I’m currently learning **about life**
 - 👯 I’m looking to collaborate on **anything that excites me**
 - 🤔 I’m looking for help in **keeping my s\*\*\* together**
