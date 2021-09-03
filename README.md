@@ -24,11 +24,11 @@
     <a href="https://twitter.com/debdutgoswami" alt="Twitter"><img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/svg/twitter.svg"></a>
     <a href="https://www.linkedin.com/in/debdutgoswami/" alt="Linkedin"><img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/svg/linkedin.svg"></a>
     <a href="mailto:debdutgoswami@gmail.com" alt="Email me"><img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/svg/mail.svg"></a>
-    <!-- <a href="#" alt="My Portfolio"><img src="assets/svg/external.svg" /></a> -->
+    <a href="https://www.debdut.co/" alt="My Portfolio"><img src="assets/svg/external.svg" /></a>
   </p>
   <br>
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=debdutgoswami&label=PROFILE+VIEWS" />
-    <!--<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=debdutgoswami.debdutgoswami">-->
+<!--     <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=debdutgoswami.debdutgoswami"> -->
   </p>
 </p>
