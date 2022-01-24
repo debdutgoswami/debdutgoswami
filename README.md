@@ -9,7 +9,7 @@
 - 💬 Ask me **something interesting**
 - 📫 How to reach me: **Anywhere you find me** 😉
 - 😄 Pronouns: **he**/**him**
-- ⚡ Fun fact: I live on **caffeine** and **memes**
+- ⚡ Fun fact: **I like my politics liberal and my APIs conservative**
 
 <!-- ![Debdut's github stats](https://github-readme-stats.vercel.app/api?username=debdutgoswami) -->
 
@@ -24,7 +24,7 @@
     <a href="https://twitter.com/debdutgoswami" alt="Twitter"><img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/svg/twitter.svg"></a>
     <a href="https://www.linkedin.com/in/debdutgoswami/" alt="Linkedin"><img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/svg/linkedin.svg"></a>
     <a href="mailto:debdutgoswami@gmail.com" alt="Email me"><img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/svg/mail.svg"></a>
-    <a href="https://www.debdut.co/" alt="My Portfolio"><img src="assets/svg/external.svg" /></a>
+    <a href="https://www.debdut.in/" alt="My Portfolio"><img src="assets/svg/external.svg" /></a>
   </p>
   <br>
   <p align="center">
