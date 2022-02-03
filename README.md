@@ -23,8 +23,8 @@
   <p align="center">
     <a href="https://twitter.com/debdutgoswami" alt="Twitter"><img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/svg/twitter.svg"></a>
     <a href="https://www.linkedin.com/in/debdutgoswami/" alt="Linkedin"><img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/svg/linkedin.svg"></a>
-    <a href="mailto:debdutgoswami@gmail.com" alt="Email me"><img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/svg/mail.svg"></a>
-    <a href="https://www.debdut.in/" alt="My Portfolio"><img src="assets/svg/external.svg" /></a>
+    <a href="mailto:contact@debdut.in" alt="Email me"><img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/svg/mail.svg"></a>
+    <a href="https://debdut.in/" alt="My Portfolio"><img src="assets/svg/external.svg" /></a>
   </p>
   <br>
   <p align="center">
