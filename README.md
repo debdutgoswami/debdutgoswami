@@ -1,4 +1,4 @@
-# Hey,  I'm Debdut &nbsp; <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px" height="40px">
+# Hey,  I'm Debdut <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px" height="40px">
 
 <img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/coder.gif" />
 
